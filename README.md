@@ -1,3 +1,6 @@
+<!-- README by NicoliBasilio - https://github.com/nicolibasilio -->
+
+
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=hatton&pause=1000&color=1E6B52&background=8BFFE300&repeat=false&width=435&lines=Hey%2C+you!+I'm+Nicoli+%F0%9F%8D%80+" alt="Typing SVG" />
